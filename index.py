@@ -79,7 +79,7 @@ try:
     canvas.create_text(
         screen_w - 20,
         screen_h - 20,
-        text="esc / enter / clique para fechar",
+        text="achou q eu tava xitado bb ve minha buceta ai xitada de leite",
         anchor="se",
         fill="white",
         font=("Arial", 12)
