@@ -61,7 +61,7 @@ root.bind("<Button-1>", fechar)
 
 canvas = tk.Canvas(root, width=screen_w, height=screen_h,
                    highlightthickness=0, bg="black")
-canvas.pack(fill="both", expand=True)
+canvas.place(x=0, y=0)  # troca pack por place
 
 x = (screen_w - new_w) // 2
 y = (screen_h - new_h) // 2
