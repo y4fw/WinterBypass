@@ -4,7 +4,7 @@ import subprocess
 import urllib.request
 import tempfile
 
-url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9QBmZWUaoXYs1umKum-eILZHoq-ODFIJHw&s"
+url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODG4FTt6XCpcDL09OFY6hiFWiQe2_fWzLDw&s"
 img_path = os.path.join(tempfile.gettempdir(), "bypasslindo.jpg")
 
 def ensure_pillow():
